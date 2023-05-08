@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning about what the heck the tilde verse is
 - 📫 How to reach me: discord: `Sky<3#9132`
 - Also I'm 16 and my pronouns are they/she.
+- Website: https://ctrl-c.club/~unusualegg
 
 [![UnusualEgg's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnusualEgg)](https://github.com/anuraghazra/github-readme-stats)
 <!---
